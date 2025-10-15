@@ -32,7 +32,7 @@ Prepare for the fight with berserker.
 # advture log
 [[Session 1]]
 [[Session 2]]
-[[session-3]]
-[[session-4]]
-[[session-5]]
-[[session-6]]
+[[Session 3]]
+[[Session 4]]
+[[Session 5]]
+[[Session 6]]
