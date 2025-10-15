@@ -14,25 +14,24 @@ Prepare for the fight with berserker.
 
 ### Players: 
 
-[[pippin-tangletoes]]
-[[hardough]]
-[[newt]]
-[[loktar]]
-[[casstus-wolfe]]
-[[oryx-valeshade]]
+[[Pippin Tangletoes]]
+[[Hardough]]
+[[Newt]]
+[[Lok'tar]]
+[[Casstus Wolfe]]
+[[Oryx Valeshade]]
 
 ### Ship: 
-[[the-sea-wolf]]
+[[The Sea Wolf]]
 
 ### Evil Guys:
-[[berserker]]
-[[bbec]]
-[[berserker]]
-[[red-robed-cultist]]
+[[Berserker]]
+[[BBEC]]
+[[Red Robed Cultist]]
 
 # advture log
-[[session-1]]
-[[session-2]]
+[[Session 1]]
+[[Session 2]]
 [[session-3]]
 [[session-4]]
 [[session-5]]
