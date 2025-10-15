@@ -1,0 +1,1 @@
+The most recent known visitors to Chandri from the Astral Planes were the Neogi, during the reign of Tenzu II - this invasion was massive and led to the deaths of many thousands. Since then, the High Kings have largely maintained their power by preventing such unwelcome visitors from the Astral Plane and beyond through magical means.

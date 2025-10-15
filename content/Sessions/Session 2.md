@@ -1,0 +1,4 @@
+---
+date: 2025-08-02
+---
+The crew of [[The Sea Wolf]] decided to first go to  [[Daedalian Dungeons]], as per their invitation instead of [[Rocktide Cove]] where the previous crew was taking them. Through some deception from [[Casstus Wolfe]], they found out that the invitation we received was not from the [[High King Tenzu IV]]. It seemed as though the [[BBEC]], and [[High King Tenzu IV]] were running the dungeon. The crew of [[The Sea Wolf]] decided against going into the labyrinth, which was lucky because there was a minotaur just inside. Instead, they sailed to the [[Rocktide Cove]] and went into the bar. There they found [[Belladonna]] who let them know that she was paid to smuggle them in to see [[Ksuch Verzeva]] in the dungeons, but through a secret entrance. They talked, and drank, and made purchases, and gambled, until they went back to their ship to set off the next day.

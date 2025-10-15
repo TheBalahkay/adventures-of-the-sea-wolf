@@ -1,0 +1,1 @@
+A large town and the rumored seat of a growing rebellion against the High King. Maybe the rightful home of the [[Imprisoned Dwarves]].

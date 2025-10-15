@@ -1,0 +1,1 @@
+The wolf that belongs to [[Lok'tar]]. Does not like Kobolds after one plucked fur from him to put into a soup aboard [[The Sea Wolf]].

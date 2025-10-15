@@ -1,0 +1,1 @@
+Chandri is orbited by one moon, Selenea. When full, this moon is quite large in the sky, and is colored a rusted, coppery look. It appears covered in strange geometric symbols.

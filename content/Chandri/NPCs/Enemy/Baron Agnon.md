@@ -1,0 +1,1 @@
+Ruler of [[Silverbrook]], and a representative of [[High King Tenzu IV]].

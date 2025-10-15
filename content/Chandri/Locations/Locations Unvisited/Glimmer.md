@@ -1,0 +1,1 @@
+A light tower created in the reign of Tenzu I, which helps ships traverse between the [[Isles of Elysia]]. 

@@ -1,0 +1,1 @@
+Towering peaks covered in perpetual snow and shrouded in mist. The Stormbreak Mountains are home to treacherous terrains, hidden caves, and ancient ruins. Their placement on the world of Chandri keeps Silverbrook from experiencing the worst of Chandri’s Coriolis weather effects
