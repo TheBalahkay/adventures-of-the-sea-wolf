@@ -1,0 +1,1 @@
+Humanoid fish people that attacked [[The Sea Wolf]], at [[Rocktide Cove]].

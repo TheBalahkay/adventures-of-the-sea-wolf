@@ -1,0 +1,1 @@
+[[Pippin Tangletoes]]' Mentor. He taught pippin to ride [[Lady Cluckington]]. He gave Pippin the plant card from the [[Deck of Many Things]]. He owns Cluckington's mom. Cluckarita. 

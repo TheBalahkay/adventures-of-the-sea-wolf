@@ -1,2 +1,1 @@
-Big Chicken
-Stolen by [[Pippin Tangletoes]] from the [[Ashen Wing]]. He then raised her, until she grew and she is now his companion. He rides her has a mount. 
+A Large, and possibly magical Bird that resembles a chicken. She was Stolen from the [[Ashen Wing]] by [[Pippin Tangletoes]]. He then raised her, until she grew and she is now his best friend. He rides her has a mount. 

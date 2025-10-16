@@ -1,1 +1,1 @@
-Runs things in [[Rocktide Cove]]. Gratefule to us for taking care of the Sahuagin problem. Was tasked with smuggling us to [[Ksuch Verzeva]].
+Runs things in [[Rocktide Cove]]. Gratefule to us for taking care of the [[Sahuagin]] problem. Was tasked with smuggling us to [[Ksuch Verzeva]].
