@@ -11,7 +11,7 @@ Pippin is a halfling fighter from the [[Isles of Elysia]]. Some time ago, he sto
 
 ##### Notable Items
 - [[Universal Solvent]]
-- [[coral lance]]
+- [[Coral Lance]]
 ## Stats
 ##### Abilities
 - strength: 15
