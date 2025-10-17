@@ -1,1 +1,1 @@
-Somehow related to the [[Ashen Wing]] and may be located at the [[Ashen Wing Fighting Outpost]]
+Somehow related to the [[Ashen Wing]] and may be located at the [[The Mace and Flail]]

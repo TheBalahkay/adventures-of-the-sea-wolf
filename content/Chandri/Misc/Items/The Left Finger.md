@@ -1,1 +1,15 @@
-Very Rare Weapon: This finely crafted, silver-bladed and steel core dagger has a cross-guard shaped like an open hand. It has the stats for a dagger, but it does not have the thrown property and requires 15 Dexterity to wield due to its odd hooked design. The dagger’s thin, intricate, hooked blade allows one to hook vital organs, nerves, and tendons without initially causing excessive internal damage, facilitating intense interrogations. Critical hits with this dagger deal an extra 2d12 damage. When an attack made with this weapon is a critical hit, the user can choose to deal no damage. Instead, the target creature being attacked is grappled, and can only escape this grapple with a DC22 Dexterity check. If the target creature fails this check, or as a reaction by the wielder, the target creature automatically takes a critical hit from this dagger and that creature is no longer grappled.
+### Overview
+- Damage: 1d4 piercing
+- Reach: 5ft
+- Requirements: Dexterity 15
+- Properties: Finesse, Light
+- Special Properties:
+	- Lacks the thrown property despite being a dagger
+	- Critical hits deal an additional 2d12 damage
+	- On a critical hit, the wielder may forgo damage to grapple the target (escape DC 22 Dexterity); as a reaction, the wielder can end the grapple to automatically deal a critical hit
+
+### Description:
+
+> This exquisitely crafted dagger bears a silver blade around a steel core and a cross-guard that evokes an outstretched hand. Its slender, hooked profile lets the wielder catch organs and tendons to control a foe without immediately inflicting mortal harm. Mastery of the blade demands exceptional dexterity, but grants terrifying precision—critical strikes rend with brutal efficiency or can instead ensnare a target in a punishing grapple.
+
+#very-rare #dagger #light #finesse #weapon

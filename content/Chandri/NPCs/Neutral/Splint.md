@@ -1,4 +1,4 @@
-Blacksmith at the [[Ashen Wing Fighting Outpost]]
+Blacksmith at the [[The Mace and Flail]]
 Can work [[Remorhaz]]
 
 

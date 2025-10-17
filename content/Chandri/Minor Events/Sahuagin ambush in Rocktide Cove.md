@@ -1,0 +1,1 @@
+The crew of the [[The Sea Wolf]] slayed the [[Sahuagin]] Baron that was terrorizing the residents of [[Rocktide Cove]] after being ambushed by it in the dead of night.
