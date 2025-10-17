@@ -20,7 +20,7 @@ Prepare for the fight with berserker.
 [[Lok'tar]]
 [[Casstus Wolfe]]
 [[Oryx Valeshade]]
-
+[[Huckleberry]]
 ### Ship: 
 [[The Sea Wolf]]
 
@@ -29,7 +29,7 @@ Prepare for the fight with berserker.
 [[BBEC]]
 [[Red Robed Cultist]]
 
-# advture log
+# adventure log
 [[Session 1]]
 [[Session 2]]
 [[Session 3]]
