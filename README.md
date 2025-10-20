@@ -1,18 +1,11 @@
-# Quartz v4
+# The Comet D&D Campaign Party Notes
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+This repo serves as the hub for the party notes of the players of this campaign. it is made using obsidian notes and Quartz 4. It uses github actions to update the free site whenever an commit is posted to the repo.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+## Running this site locally.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+have the LTS version of node. at the time of writing that is ~v22
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+npx serve to run
 
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+npx sync to push to repo
