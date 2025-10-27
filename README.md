@@ -12,7 +12,7 @@ You can update this site by making changes to the notes in the `content` folder 
 
 Obsidian is a free note taking app that allows you to create and manage markdown files. You can download obsidian from the official website: https://obsidian.md/
 
-**IMPORTANT NOTE:** before making changes always make sure to "pull" updates from the repo. This will make sure that there are no conflicts between your edits and someone elses. If you dont do this and happen to have a conflict it IS NOT the end of the world. You can use github desktop to compare the changes and accept either yours, the other persons or both. If this happens feel free to contact me as well. I can help you through it if it feels to complicated/intimidating. There are no stupid questions.
+**IMPORTANT NOTE:** before making changes always make sure to "pull" updates from the repo. This will make sure that there are no conflicts between your edits and someone elses. If you dont do this and happen to have a conflict it IS NOT the end of the world. You can use github desktop to compare the changes and accept either yours, the other persons or both. If this happens feel free to contact me as well. I can help you through it if it feels too complicated/intimidating. There are no stupid questions.
 
 1. Open obsidian and select "Open folder as vault".
 2. Select the `content` folder in the root directory of the repo.
