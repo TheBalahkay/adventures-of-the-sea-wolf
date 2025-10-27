@@ -5,4 +5,4 @@ date: 2025-10-12
 
 After discussing in private— the group came to the conclusion that, at the very least, letting these two groups fight would weaken them, and leave an opportunity for later. [[Huckleberry]] left [[Pike Steer]] pinned under his immovable rod and drunk from the three tankards of ale [[Lok'tar]] forced down his throat. 
 
-[[Lok'tar]] and [[Casstus Wolfe]] also gleaned from the barkeep information about the [[Berserker]], and [[Frost Worms]].
+[[Lok'tar]] and [[Casstus Wolfe]] also gleaned from the barkeep information about the [[Berserker]], and [[Chandri/Creatures/Remorhaz]].

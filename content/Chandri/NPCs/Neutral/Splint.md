@@ -1,5 +1,5 @@
 Blacksmith at the [[The Mace and Flail]]
-Can work [[Remorhaz]]
+Can work [[Chitin]]
 
 
 #vendor 

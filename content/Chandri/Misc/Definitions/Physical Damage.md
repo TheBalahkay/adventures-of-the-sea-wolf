@@ -1,0 +1,1 @@
+Encompasses Piercing, Slashing, and bludgeoning damage types
