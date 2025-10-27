@@ -5,7 +5,7 @@ Prepare for the fight with berserker.
 
 ### side Objective
 - [x] Enter into the bar fights
-- [x] Fight [[Chitin]] to obtain chitin
+- [x] Fight [[Remorhaz]] to obtain chitin
 
 #### Berserker Fight Prep
 - [ ] Create chitin armor from chitin
