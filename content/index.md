@@ -5,10 +5,18 @@ Prepare for the fight with berserker.
 
 ### side Objective
 - [x] Enter into the bar fights
+- [x] Fight [[remorhaz]] to obtain chitin
+
+#### Berserker Fight Prep
+- [ ] Create chitin armor from chitin
+- [ ] Watch berserker fight the unknown monstrosity
 - [ ] Work way up fight competition ladder
-- [ ] Create chitin armor from lava work
+#### Mace and Flail
+- [ ] Go down the hole in [[pike-steer]]'s room to investigate
+- [ ] Find out more about the ashen wing cell that runs the mace and flail operation
+- [ ] Find a way to get tax revenue from the mace and flail operation without harming innocent creatures
+#### Party Goals
 - [ ] Get to know the party better
-- [ ] Find out more about the ashen wing
 
 ## Main Cast 
 
