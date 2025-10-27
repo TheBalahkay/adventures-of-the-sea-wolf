@@ -14,6 +14,8 @@
 [[Splint]]
 
 Alt Verisions:
+
+
 ![[medium-chitin-alt.jpg]]
 ![[chitin-medium-armor-concept.jpg]]
 
