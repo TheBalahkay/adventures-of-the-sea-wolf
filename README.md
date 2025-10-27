@@ -1,6 +1,6 @@
 # The Comet D&D Campaign Party Notes
 
-This repo serves as the hub for the party notes of the players of this campaign. it is made using obsidian notes and Quartz 4. It uses github actions to update the free site whenever an commit is posted to the repo. This site is version controlled using git and github, and is a low maintenance way to host a site for free. Updating the site is as simple as making changes to the notes in obsidian and pushing them to the repo. Set up instructions for updating the site and running it locally can be found below. Try not to be intimidated by the technical jargon, I will walk you through everything step by step, and if you get stuck, feel free to reach out to me for help.
+This repo serves as the hub for the party notes of the players of this campaign. it is made using obsidian notes and Quartz 4. It uses github actions to update the free site whenever a commit is posted to the repo. This site is version controlled using git and github, and is a low maintenance way to host a site for free. Updating the site is as simple as making changes to the notes in obsidian and pushing them to the repo. Set up instructions for updating the site and running it locally can be found below. Try not to be intimidated by the technical jargon, I will walk you through everything step by step, and if you get stuck, feel free to reach out to me for help.
 
 ## Live site
 The live site can be found at:
