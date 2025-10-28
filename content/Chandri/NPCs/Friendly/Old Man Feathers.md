@@ -1,1 +1,3 @@
-[[Pippin Tangletoes]]' Mentor. He taught pippin to ride [[Lady Cluckington]]. He gave Pippin the plant card from the [[Deck of Many Things]]. He owns Cluckington's mom. Cluckarita. 
+An elf and [[Pippin Tangletoes]]' Mentor. He is an Ex member of the [[Ashen Wing]], and taught pippin to ride [[Lady Cluckington]]. He gave Pippin the plant card from the [[Deck of Many Things]]. He owns Cluckington's mom. [[Mama Cluckington]]. (note for mama cluck to be added) 
+
+Pippin Came to him in desperation after the the [[Ashen Wing]] attacked his family in retaliation of him stealing [[Lady Cluckington]]. 
