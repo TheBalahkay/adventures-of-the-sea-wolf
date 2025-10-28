@@ -23,7 +23,7 @@ After running through the night Pippin returned and showed the egg to OMF, who u
 
 The Ashen Wing orchestrated a **goblin raid** to flush out the thief. During the chaos, the egg in Pippin's backpack hatched, and [[Lady Cluckington]] emerged. Her hatching sent a powerful pulse of primal energy. It caused the goblins to scatter, but served as a beacon to the [[Ashen Wing]]. That same evening, the members of the [[Ashen Wing]] descended upon the Tangletoes farm. They used a basilisk to temporarily petrify his younger sister, Camlin. They promised to return and do much worse if the thief did not come clean.
 
-Pippin, torn between wanting to save his family and protect [[Lady Cluckington]], he penned a note that night. He disowned his family, cursing them for their weakness and challenged the [[Ashen Wing]] to find him. If they wanted Cluckington so bad then they could come and take her.
+Pippin, torn between the desire to save his family and protect [[Lady Cluckington]], penned a note that night. He disowned his family, cursing them for their weakness and challenged the [[Ashen Wing]] to find him. If they wanted Cluckington so bad then they could come and take her.
 
 Pippin spent the next 4 years training under OMF before setting off to do what he trained to do. Destroy the [[Ashen Wing]], free himself and [[Lady Cluckington]] from their grip, and finally see his family again. When he set off OMF gave pippin the [[Plant]] card, some scale-mail armor, and gave him a note that told him to find the flopping fish.
 
