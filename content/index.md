@@ -1,7 +1,7 @@
 # Adventures of the sea wolf
 
 ## Current Objective:
-Prepare for the fight with berserker. 
+Prepare for the fight with berserker. Test
 
 ### side Objective
 - [x] Enter into the bar fights
