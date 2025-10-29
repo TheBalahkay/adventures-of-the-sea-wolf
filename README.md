@@ -26,7 +26,7 @@ Once you have pushed the changes to the repo, github actions will automatically 
 ### Images
 If you want to add images to the site, you can add them to the `content/_media` folder. If you are editing from obsidian then this will just be the `_media` folder. Please just add the images/multimedia to this folder. Quartz will "ignore" this folder when seting up the navigation and graph views. The site will still display them but they will not add additional and unneccessary nodes to the graph or add them as "pages" for the site. You can then reference the images in your markdown files using the following syntax:
 
-`![alt text](./_media/image.png)`
+`![[./_media/image.png]]`
 
 
 ## Cloning this repo (Get the files on your local machine)
