@@ -2,7 +2,7 @@
 
 ## Current Objective:
 Prepare for the fight with berserker.
-arstniaerstniearsn
+do this instead
 ilolololol
 
 ### side Objective
