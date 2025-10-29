@@ -2,7 +2,7 @@
 
 ## Current Objective:
 Prepare for the fight with berserker.
-
+arstniaerstniearsn
 ### side Objective
 - [x] Enter into the bar fights
 - [x] Fight [[Remorhaz]] to obtain chitin
