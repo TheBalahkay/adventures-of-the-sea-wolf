@@ -2,8 +2,6 @@
 
 ## Current Objective:
 Prepare for the fight with berserker.
-do this instead
-ilolololol
 
 ### side Objective
 - [x] Enter into the bar fights
