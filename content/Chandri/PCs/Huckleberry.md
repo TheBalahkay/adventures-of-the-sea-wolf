@@ -5,6 +5,4 @@ After the mutiny at sea in [[Session 1]], the new crew of [[The Sea Wolf]] named
 
 Huckleberry seems to have developed a chronic cough, no medicine has helped as of yet.
 
-huck is dope. This is Asa's first test with Github Desktop.
-
 #common #giant
