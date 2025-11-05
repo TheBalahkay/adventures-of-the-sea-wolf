@@ -1,9 +1,9 @@
-# Adventures of the sea wolf
+# Adventures of the Sea Wolf
 
 ## Current Objective:
 Prepare for the fight with berserker.
 
-### side Objective
+### Side Objective
 - [x] Enter into the bar fights
 - [x] Fight [[Remorhaz]] to obtain chitin
 
@@ -44,3 +44,4 @@ Prepare for the fight with berserker.
 [[Session 4]]
 [[Session 5]]
 [[Session 6]]
+[[Session 7]]
