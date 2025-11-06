@@ -1,1 +1,1 @@
-[[Pippin Tangletoes]] Claims he followed a Golden crow to the a [[Ashen Wing]] stronghold located near his home. It was there that he came across Cluckington's egg on a pedestal bathed in a cold blue flame. He stole the egg claiming visions told him to do it.
+[[Pippin Tangletoes]] Claims he followed a  [[Golden-Feathered Crow]] to the a [[Ashen Wing]] stronghold located near his home. It was there that he came across Cluckington's egg on a pedestal bathed in a cold blue flame. He stole the egg claiming visions told him to do it.

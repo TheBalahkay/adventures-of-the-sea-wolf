@@ -17,7 +17,7 @@ Pippin’s life changed at age **sixteen** during a local fair. He was captivate
 
 one evening while pippin and OMF were talking about their shared love of birds, Cluckington's mother locked eyes with Pippin; Visions began to bombard Pippin. He saw  an egg in a stone chamber, held by a shadowy group; Heard whispers and voices he couldn't make out. One scene was clear however, the screams of Cluckington's mom as her egg was stolen from her.
 
-Driven by his visions he set out in the night and came upon a [[golden-feathered crow]]. The crow lead him to an old Ashen Wing outpost. There, resting in a bowl of cold blue flame, he saw the egg from his visions. He snatched the egg and fled. Why the egg was unguarded is unknown, even to Pippin.
+Driven by his visions he set out in the night and came upon a [[Golden-Feathered Crow]]. The crow lead him to an old Ashen Wing outpost. There, resting in a bowl of cold blue flame, he saw the egg from his visions. He snatched the egg and fled. Why the egg was unguarded is unknown, even to Pippin.
 
 After running through the night Pippin returned and showed the egg to OMF, who urged him to leave immediately. Pippin refused, unready to abandon his family. He was certain he could hide the egg. Could they really want it that bad if they left it unguarded? He managed to hide the egg for two weeks before the cult struck back.
 
