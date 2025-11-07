@@ -1,4 +1,8 @@
+![[Neogi-3e.png]]
+
 The most recent known visitors to [[Chandri]] from the Astral Planes were the Neogi, during the reign of High King Tenzu II - this invasion was massive and led to the deaths of many thousands. Since then, the High Kings have largely maintained their power by preventing such unwelcome visitors from the Astral Plane and beyond through magical means.
 
 *An artist's rendition of a Neogi. Most children raised in Chandri are told horror stories of these ruthless aberrations. Little is known of them on Chandri besides the tales of their destruction and the stories of those who were kidnapped by them as they were repelled from Chandri back into the Astral Plane*
-![[Neogi-3e.png]]
+
+
+
