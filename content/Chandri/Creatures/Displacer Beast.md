@@ -1,2 +1,2 @@
 ![[displacer.jpg]]
-The opponent of [[Lok'tar]] at the [[The Mace and Flail]], he spared it's life and brought it back to his room, trying to persuade it into joining him and [[Dennis]] as a companion.
+The opponent of [[Lok'tar]] in his intro fight in the [[The Mace and Flail]] fighting pits. [[Lok'tar]] deceived onlookers of the fighting pits and spared its life, bringing it back to his room in an attempt to persuade it to help the party, joining him and [[Dennis]] as a companion.
