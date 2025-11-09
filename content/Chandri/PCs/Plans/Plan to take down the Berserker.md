@@ -3,7 +3,7 @@ Arrange for fight during the siege by the [[Fire Claws]]
 
 Must deal with the Helm of the [[Berserker]] first thing.
 [[Oryx Valeshade]] 
-	Grapples with [[The Left Finger]].
+	Grapples with [[The Left Finger test]].
 [[Huckleberry]] 
 	pulls off Helmet
 [[Casstus Wolfe]]
