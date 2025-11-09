@@ -1,4 +1,4 @@
 ---
 date: 2025-08-29
 ---
-The crew of [[The Sea Wolf]] made their way into the [[Daedalian Dungeons]] through a secret sewageway at [[Half Moon Key]]. [[Belladonna]] left them there to meet [[Ksuch Verzeva]] who relayed the information about the [[BBEC]] and the [[Deck of Many Things]]. Afterwards, they explored the dungeons before jumping into a deep dark hole.
+The crew of [[The Sea Wolf]] made their way into the [[Daedalian Dungeons]] through a secret sewageway at [[Half Moon Key]]. [[Belladonna]] left them there to meet [[Ksucha Verzeva]] who relayed the information about the [[BBEC]] and the [[Deck of Many Things]]. Afterwards, they explored the dungeons before jumping into a deep dark hole.

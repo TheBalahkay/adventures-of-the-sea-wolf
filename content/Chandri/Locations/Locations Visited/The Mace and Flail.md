@@ -16,7 +16,7 @@ There is a secret hole in the room of [[Pike Steer]] which leads to the 2nd leve
 	- can barter
 - ### Wares
 	- [[Hooked Polearm]]
-	- [[The Left Finger]]
+	- [[The Left Finger test]]
 	- [[Crucifix Ballistae (Lich Cross)]]
 	- [[Punting Maul]]
 	- [[Curved Greatsword (Charger’s Blade)]]
