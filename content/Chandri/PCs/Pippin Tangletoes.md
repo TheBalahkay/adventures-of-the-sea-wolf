@@ -2,11 +2,30 @@
 
 # Overview
 Pippin is a halfling fighter from the [[Isles of Elysia]]. Some time ago, he stole the egg containing [[Chandri/Creatures/Lady Cluckington]], from the [[Ashen Wing]] gang. He was then trained by his mentor [[Old Man Feathers]] on how to fight, and how to ride Cluckington as a mount. Pippin has a strong interest in birds, and other creatures. He is a currently traveling as a part of the crew of [[The Sea Wolf]], and a holder of a card from the [[Deck of Many Things]].
+
+### Morality
+
+- Driving principles
+	- Prioritizes free will
+	- Trampling on a creature's free will, without due cause, is a cardinal sin
+	- No honor in killing a creature that has no chance against you.
+- Questions/Dissonances to resolve
+	- How does he properly honor animals/monstrosities after killing them
+	- Realistically pippin does not have a way of being a vegetarian. How does he handle eating animals?
+	- What is due cause? Is that just a convenient excuse?
+	- We killed two Remorhaz. Why was that ok? Just for armor? In service of taking out the ashen wing? 
+		- is a monstrosity worthy of the same moral consideration as a beast?
+			- Displacer beasts enjoy killing. It is a monstrosity. Do all monstrosities feel this way?
+
+### Motivations
+- a desire prove himself
+- Protect creatures that can't protect themselves
 ### Cards
 
 | Card      | Charged | Permanent |
 | --------- | ------- | --------- |
 | [[Plant]] | No      | No        |
+|           |         |           |
 # Origin 
 
 **Pippin Tangletoes** was an ordinary halfling farmer from the [[Isles of Elysia]]. With no trace of magic in his blood, Pippin was defined by his sheer, stubborn will. He dreamed of being a warrior, and spent his days fighting cornstalks and vegetables on his families farm. He was determined to prove that a magic-less commoner could carve his name into history, even if he was a halfling.
