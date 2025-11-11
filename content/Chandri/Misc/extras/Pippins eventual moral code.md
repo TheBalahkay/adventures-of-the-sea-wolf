@@ -8,7 +8,8 @@
 ----
 ### How these principles play out
 
-- **Honor:** There is **no honor** in defeating a creature that has no chance against you; skill must be used for necessary defense, not cruelty or pride.
+- **Honor:** There is **no honor** in killing a creature that has no chance against you; skill must be used for necessary defense, not cruelty or pride.
+	- A kill doesn't need to be honorable, but always respectful/necessary 
 
 - **Acknowledge the Cost:** After a kill, take a moment to silently ask:  "Was this kill necessary? Let the price of this life strengthen my shield against those who would steal freedom. Wish their spirit well."
 
@@ -17,7 +18,7 @@
 - **Ritual of Atonement:** If the kill was dishonorable, reflect on it. Dedicate the tainted resource (like the Remorhaz shield) to specific acts of **service and defense of the truly defenseless**. Do your best to honor the death with renewed commitment to your principles.
 
 - **Defining Due Cause:** It is defined as **necessary preventative action** (self-defense or stopping a greater harm/tyranny), not punishment or convenience. If a non-lethal option exists, it must be taken.
-	- **Exception:** Individuals who violate free will (like Gaius) and are judged **untrustworthy** to stop/attempt to atone, making their execution a necessary **preventative measure** for the future freedom of others, not just revenge for the past.
+	- **Exception:** Individuals who violate free will (like Gaius) and are judged **untrustworthy** to stop/attempt to atone, makes their execution a necessary **preventative measure** for the future freedom of others, not just revenge for the past.
 
 - **Dignity in Death:** If a kill is necessary, it must be **swift, clean, and never prolonged for the sake of inflicting suffering. The defeated must be allowed a final, small act of free will (like last words).
 
