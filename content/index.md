@@ -1,41 +1,39 @@
 # Adventures of the Sea Wolf
 
 ## Current Objective:
-Prepare for the fight with berserker.
+Decide where to go next.
 
 ### Side Objective
-- [x] Enter into the bar fights
-- [x] Fight [[Remorhaz]] to obtain chitin
+- [ ] Divvy up the [[Map]], [[Monstrosity]], [[Book]], and bag of holding.
+- [ ] Decide how to leave  [[The Mace and Flail]]
+- [ ] Set magical creatures free?
+- [ ] Take the dwarves home
+- [ ] Discuss the Scroll
 
-#### Berserker Fight Prep
-- [ ] Create chitin armor from chitin
-- [ ] Watch berserker fight the unknown monstrosity
-- [ ] Work way up fight competition ladder
-#### Mace and Flail
-- [ ] Go down the hole in [[pike-steer]]'s room to investigate
-- [ ] Find out more about the ashen wing cell that runs the mace and flail operation
-- [ ] Find a way to get tax revenue from the mace and flail operation without harming innocent creatures
+#### Misc To Do
+- [ ] Pick up remaining Chitin armor from [[Splint]]
+- [ ] Discuss Tax Policy
+
 #### Party Goals
-- [ ] Get to know the party better
+- [ ] Get to know [[Echo]] better
+- [ ] Send [[Lok'tar]] a card
 
 ## Main Cast 
 
 ### Players: 
 
 [[Pippin Tangletoes]]
-[[Hardough]]
 [[Newt]]
-[[Lok'tar]]
 [[Casstus Wolfe]]
 [[Oryx Valeshade]]
 [[Huckleberry]]
+[[Echo]]
 ### Ship: 
 [[The Sea Wolf]]
 
 ### Evil Guys:
-[[Berserker]]
+[[High Priestess Nyx]]
 [[BBEC]]
-[[Red Robed Cultist]]
 
 # adventure log
 [[Session 1]]
@@ -45,3 +43,5 @@ Prepare for the fight with berserker.
 [[Session 5]]
 [[Session 6]]
 [[Session 7]]
+[[Session 8]]
+[[Session 9]]

@@ -1,0 +1,1 @@
+Found in the aftermath of the exhibition match at [[The Mace and Flail]]. Maybe connected to the [[Naga]]. Currently with [[Huckleberry]].

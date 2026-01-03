@@ -1,1 +1,0 @@
-Leader of the [[Ashen Wing]]

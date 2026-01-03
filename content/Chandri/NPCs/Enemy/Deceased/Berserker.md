@@ -1,3 +1,5 @@
+----DECEASED----
+
 Warforged champion of the [[The Mace and Flail]]
 Magical helm which may control him
 	Seems to be made out of Remorhaz
