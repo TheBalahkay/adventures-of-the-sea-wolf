@@ -6,7 +6,7 @@ date: 2025-11-08
 
 The party descended into the lower levels of [[The Mace and Flail]]. Most important things that happened:
 - Found lots of magical items, and looted a lot of them.
-- Found the office space of the [[Ashen Wing]] and found out that they are working with the [[BBEC]]. 
+- Found the office space of the [[Ashen Wing]] and found out that they are working with the [[Cult of the Comet]]. 
 - Took lots of gold from the Ashen Wing coffers.
 - Found a [[Map from Ashen Wing & BBEC]] with lots of X's on them, including at [[Robidain]] and [[Coral Bay]].
 - Oryx turned invisible and found that the Berserker was caged and 'turned off', and there was a [[Naga]] chained up below.

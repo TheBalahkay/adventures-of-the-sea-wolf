@@ -1,0 +1,1 @@
+Located in [[The Emerald Vale]]. It is an Owlin outpost.

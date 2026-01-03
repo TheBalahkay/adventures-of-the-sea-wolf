@@ -1,0 +1,1 @@
+a scholarly Owlin who had devoted his entire life to the outpost. He was old, set in his ways, and couldn't bear to abandon his life's work. He stayed behind to salvage what he could, planning to restore Feather-Hoot once the danger passed.

@@ -1,1 +1,1 @@
-Possible Cultist from the [[BBEC]]. Newt didn't know her, as she was adopted (?).
+Possible Cultist from the [[Cult of the Comet]]. Newt didn't know her, as she was adopted (?).

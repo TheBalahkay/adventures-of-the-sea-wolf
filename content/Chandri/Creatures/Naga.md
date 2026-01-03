@@ -1,4 +1,4 @@
-One Naga was used in an exhibition match at  [[The Mace and Flail]] that was put on by the [[Ashen Wing]], and [[BBEC]]. It was slain, but they believe it will come back in a matter of days. For some reason [[High Priestess Nyx]] was planning on inhabiting the Naga after it's death— maybe in an effort to use occult magicka to fuse herself with the Monstrosity card or to gain the Naga's ability to heal after death.
+One Naga was used in an exhibition match at  [[The Mace and Flail]] that was put on by the [[Ashen Wing]], and [[Cult of the Comet]]. It was slain, but they believe it will come back in a matter of days. For some reason [[High Priestess Nyx]] was planning on inhabiting the Naga after it's death— maybe in an effort to use occult magicka to fuse herself with the Monstrosity card or to gain the Naga's ability to heal after death.
 
 This event also brought up other questions:
 If this was all meant to be an occult sacrifice why bother with holding a championship prize match with an audience? Why utilize the Berserker to kill the Naga at all when they already had the Naga chained and captive, surely it would have been easier to simply execute it?

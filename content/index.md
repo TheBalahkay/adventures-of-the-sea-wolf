@@ -34,7 +34,7 @@ Decide where to go next.
 
 ### Evil Guys:
 [[High Priestess Nyx]]
-[[BBEC]]
+[[Cult of the Comet]]
 
 # adventure log
 [[Session 1]]
