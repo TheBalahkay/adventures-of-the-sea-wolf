@@ -9,6 +9,7 @@ Decide where to go next.
 - [ ] Set magical creatures free?
 - [ ] Take the dwarves home
 - [ ] Discuss the Scroll
+- [ ] Huckleberry's theory
 
 #### Misc To Do
 - [ ] Pick up remaining Chitin armor from [[Splint]]
