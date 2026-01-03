@@ -1,0 +1,1 @@
+The newest member of the [[The Sea Wolf]]. Joined the party after [[Session 9]], where she helped fight [[High Priestess Nyx]]. She is an Owlin chronomancy Wizard.

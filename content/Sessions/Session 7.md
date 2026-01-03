@@ -1,3 +1,7 @@
+---
+date: 2025-10-25
+---
+
 The party awoke in  [[The Mace and Flail]] and let [[Pike Steer]] go his way. [[Gaius]] came to the suite and invited the group to the exhibition between [[Berserker]] and an unknown creature in two days.  As they prepared to depart, they acquired [[The Left Finger]], two [[Hooked Polearm]], and a few bottles of [[Special Health Potion]].
 
 Descending from the mountain path, they reached the small port town below. There, [[Huckleberry]] reclaimed his anchor from the blacksmith, while [[Pippin Tangletoes]] commissioned leather armor for [[Chandri/Creatures/Lady Cluckington]]. The blacksmith spoke in hushed tones of the **Ashen Wing**, a ruthless group that extracted heavy tolls under the guise of “protection” from wild creature attacks — little more than a shakedown in disguise.
