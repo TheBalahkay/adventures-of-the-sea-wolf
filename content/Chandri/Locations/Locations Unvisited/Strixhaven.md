@@ -1,1 +1,1 @@
-Owlin Home
+The Owlin homeworld. This is where [[Echo]]'s parents— [[Dusk Dawn Silvertail]], and [[Zephyr Archivus Silvertail]] are from.
