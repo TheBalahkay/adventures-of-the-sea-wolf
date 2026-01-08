@@ -1,4 +1,4 @@
-House Wolfe is not an ancient house, but has impressed [[High King Tenzu IV]], through their prowess as conquest paladins. Main influence in the military and criminal justice.
+House Wolfe is an ancient house, that had impressed [High King Tenzu II], through their prowess as conquest paladins. Main influence in the military and criminal justice.
 
 Crest: Snarling wolf head on a heater shield with a sword behind it with a crown around the hilt {The Wolf bears its fangs representing the aggression of the house, the sword and shield representing martial mastery, the crown was added to the heraldry during the rule of High King Tenzu II representing the House's chosen status as favored by the throne}
 
