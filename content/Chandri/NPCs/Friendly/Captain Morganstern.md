@@ -1,0 +1,1 @@
+Former pirate and the leader of [[Rocktide Cove]]. After the [[Sahuagin ambush in Rocktide Cove]], she offered to maintain a bastion for the crew of [[The Sea Wolf]]. She was somehow cursed so that she may not sail the open seas. She offered her first mate [[Belladonna]] to help the Sea Wolfe
