@@ -1,0 +1,1 @@
+Former Head of [[House Wolfe]]. Father to [[Castus Wolfe]].

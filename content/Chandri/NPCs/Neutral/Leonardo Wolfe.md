@@ -1,0 +1,1 @@
+Current Head of [[House Wolfe]]. Brother to [[Castus Wolfe]].

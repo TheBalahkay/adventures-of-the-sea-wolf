@@ -6,7 +6,7 @@ The crew of [[The Sea Wolf]] entered the exhibition match, where they saw an imp
 
 Almost at once, the fight began.
 
-In the ring was the [[Berserker]], and a [[Naga]]. The group split up without finalizing a plan (despite having discussed one days earlier). Some went to get a better view, some went to get pickles. [[Oryx Valeshade]] was picking pockets, and  [[Castus]] chose to stay put and interrogate Nyx telepathically.
+In the ring was the [[Berserker]], and a [[Naga]]. The group split up without finalizing a plan (despite having discussed one days earlier). Some went to get a better view, some went to get pickles. [[Oryx Valeshade]] was picking pockets, and  [[Castus Wolfe]] chose to stay put and interrogate Nyx telepathically.
 
 Eventually, the brawl became too much for [[Newt]] and [[Pippin Tangletoes]] to watch idly— they jumped into the ring and began to help the naga.
 

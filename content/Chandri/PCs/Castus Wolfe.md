@@ -1,6 +1,6 @@
-Castus is a High-Elf Bard, and member of the noble [[House Wolfe]]. Born as a noble and middle son (one older brother {Leonardo} and two younger {Augustine and Eisnewheld}) His older brother Leonardo is the current head of House Wolfe and has been for the past 93 years although Castus' father {Eroan} is still alive.
+Castus is a High-Elf Bard, and member of the noble [[House Wolfe]]. Born as a noble and middle son (one older brother [[Leonardo Wolfe]] and two younger {[[Augustine Wolfe]] and [[Eisenwhed Wolfe]]}) His older brother Leonardo is the current head of House Wolfe and has been for the past 93 years although Castus' father [[Eroan Wolfe]] is still alive.
 
-Castus is married to Camille Wolfe and has been married for the past 113 years. He has three children Naesala {110} his oldest daughter, Kovlar {87} his middle son, and Arryn{63} his youngest daughter.
+Castus is married to [[Camille Wolfe]] and has been married for the past 113 years. He has three children Naesala {110} his oldest daughter, Kovlar {87} his middle son, and Arryn{63} his youngest daughter.
 
 He was a recipient of a card from the [[Deck of Many Things]]. Currently holds the [Key] and Card that teaches languages
 

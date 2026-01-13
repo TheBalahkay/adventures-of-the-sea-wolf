@@ -1,0 +1,1 @@
+Naesala {110} his oldest daughter, Kovlar {87} his middle son, and Arryn{63} his youngest daughter.
