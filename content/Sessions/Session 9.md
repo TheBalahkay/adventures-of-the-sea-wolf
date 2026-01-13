@@ -1,5 +1,6 @@
 ---
 date: 2025-12-13
+Moon Phase: Waxing Gibbous
 ---
 The crew of [[The Sea Wolf]] entered the exhibition match, where they saw an imposing creature. She introduced herself as [[High Priestess Nyx]]. From the demeanor of [[Gaius]] and the [[Red Robed Cultist]], it was clear that she was the leader of the [[Cult of the Comet]]. It also became clear that the [[Ashen Wing]] was deferential to the [[Cult of the Comet]]. 
 

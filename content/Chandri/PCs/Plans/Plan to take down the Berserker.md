@@ -6,7 +6,7 @@ Must deal with the Helm of the [[Berserker]] first thing.
 	Grapples with [[The Left Finger]].
 [[Huckleberry]] 
 	pulls off Helmet
-[[Casstus Wolfe]]
+[[Castus Wolfe]]
 	Command: Drop Weapon
 	Bard Ability: minus 1d6 to his will save
 	Heat Metal: disadvantage/ 2d6 damage per round

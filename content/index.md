@@ -25,7 +25,7 @@ Decide where to go next.
 
 [[Pippin Tangletoes]]
 [[Newt]]
-[[Casstus Wolfe]]
+[[Castus Wolfe]]
 [[Oryx Valeshade]]
 [[Huckleberry]]
 [[Echo]]
