@@ -2,6 +2,10 @@ The newest member of the [[The Sea Wolf]]. Joined the party after [[Session 9]],
 
 Echo is an Owlin (Northern Spotted Owl) chronurgy Wizard.
 
+#### Quirks
+- She might compulsively collect and archive information
+- She does not understand taxes
+
 
 #### Backstory:
 Before the [[High King Tenzu IV]] rose to power, a catastrophic invasion of [[Neogi]] tore through [[Chandri]] from the astral plane creating absolute havoc. When King Tenzu finally drove back the Neogi, he made a decisive ruling to seal the borders between Chandri and the astral plane, locking down travel to prevent future incidents.
@@ -42,17 +46,8 @@ Here are some goals that would be deeply personal to Echo beyond stopping the cu
 o	She wants to know: were they just skilled mages, or was there something special about their love that made the magic work?
 -	Investigating the Sealed Borders, could she travel to Strixhaven and maybe meet her grandmother?
 o	Is there any way to communicate across the barrier, even if travel is impossible? Perhaps the Cult knows?
-o	Her middle name is a legacy she wants to understand and honor, and just wants to learn more about the Silvertails
 -	What if the Cult of the Comet's actions could reopen the astral borders? (This creates a moral dilemma—does she want that?)
 -	Finding Other Owlins
--	Are there other owlins stranded on Chandri from other outposts?
--	Elder Quillon won't live forever…she doesn't want to be completely alone
 -	Restoring Feather-Hoot's Purpose
-o	The outpost was meant to be a place of learning and cultural exchange
-o	Could she honor her parents and Quillon by making it serve that purpose again, even without Strixhaven?
-o	Maybe she documents Chandri's cultures to send back if the borders ever open
 -	Why did her parents name her Echo specifically? Does her name itself carry power, as owlin tradition suggests?
--	She wants to preserve her heritage
-o	She's possibly the youngest owlin on Chandri and may outlive Quillon
-o	She feels responsible for keeping owlin culture, stories, and knowledge alive
-o	She might compulsively collect and archive information, just like her parents did
+
