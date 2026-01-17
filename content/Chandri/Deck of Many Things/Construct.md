@@ -1,1 +1,1 @@
-Found in the aftermath of the exhibition match at [[The Mace and Flail]]. Maybe connected to the [[Naga]]. Currently with [[Echo]].
+Found in the aftermath of the exhibition match at [[The Mace and Flail]]. Maybe connected to the [[Naga]]. Currently with [[Echo Dawn Silvertail of Feather-Hoot]].

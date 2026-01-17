@@ -1,3 +1,3 @@
-The famous which which summoned  [[The Sea Wolf]] and it's crew.
+The famous witch which summoned  [[The Sea Wolf]] and it's crew.
 Was a sorceress in the past, and was a large part in forming "The Order" which later became the [[Cult of the Comet]]. The original intent was to gather cards from the [[Deck of Many Things]] in order to make the world a better place, but that goal was corrupted.
 Has a ring on a chain around her neck. Has natural dark inky marks on her outer limbs. Resided at the [[Daedalian Dungeons]].

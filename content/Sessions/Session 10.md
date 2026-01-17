@@ -2,7 +2,7 @@
 date: 2026-01-03
 Moon Phase: Waxing Gibbous --> First Quarter
 ---
-In the aftermath of the final clash at [[The Mace and Flail]], the group started by familiarizing themselves more with [[Echo]]. [[Castus Wolfe]] relayed that during the battle he briefly visited space, grâce à [[High Priestess Nyx]], and saw a comet hurling toward [[Chandri]]. 
+In the aftermath of the final clash at [[The Mace and Flail]], the group started by familiarizing themselves more with [[Echo Dawn Silvertail of Feather-Hoot]]. [[Castus Wolfe]] relayed that during the battle he briefly visited space, grâce à [[High Priestess Nyx]], and saw a comet hurling toward [[Chandri]]. 
 
 The group milled about, looking at the chasm for awhile before [[Huckleberry]] remembered the creatures in cages above. He threw a magical cage with a fire elemental down the chasm, hoping to see it reach the bottom. Instead, he found that it took ~5 seconds until the magic in the cage dispelled, and another ~20 seconds until the light of the elemental could no longer be seen.
 

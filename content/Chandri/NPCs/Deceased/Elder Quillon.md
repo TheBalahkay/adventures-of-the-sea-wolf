@@ -1,0 +1,5 @@
+A scholarly and incredibly old Owlin who had devoted his entire life to the [[Feather-Hoot Outpost]]. During the [Neogi] invasion and the Owlin retreat back to [Stixhaven], he stayed behind at the outpost unable to bear abandoning his life's work. He planned to restore the outpost to its former glory once the danger passed. However, due to the abolishment of space travel by [[High King Tenzu IV]], he became a lonely hermit at the outpost. 
+
+He discovered [[Echo Dawn Silvertail of Feather-Hoot]]'s egg during the invasion and kept it safe ever since. Hoping one day it would hatch. When it finally did, he took it straight to the mage school along with the intriguing ruin engraved egg shells, where [[Mokato]] kept the egg safe and attempted to study the runes. 
+
+Elder Quillon died a natural bird death hundreds of years ago. He did leave being multiple notes and books for [[Echo Dawn Silvertail of Feather-Hoot]], some of which are illegible/make no sense due to old age... 

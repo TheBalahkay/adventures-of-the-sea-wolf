@@ -16,7 +16,7 @@ Decide where to go next.
 - [ ] Discuss Tax Policy
 
 #### Party Goals
-- [ ] Get to know [[Echo]] better
+- [ ] Get to know [[Echo Dawn Silvertail of Feather-Hoot]] better
 - [ ] Send [[Lok'tar]] a card
 
 ## Main Cast 
@@ -28,7 +28,7 @@ Decide where to go next.
 [[Castus Wolfe]]
 [[Oryx Valeshade]]
 [[Huckleberry]]
-[[Echo]]
+[[Echo Dawn Silvertail of Feather-Hoot]]
 ### Ship: 
 [[The Sea Wolf]]
 
