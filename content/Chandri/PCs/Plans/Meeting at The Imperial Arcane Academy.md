@@ -1,0 +1,1 @@
+- [[Echo Dawn Silvertail of Feather-Hoot]] received a note from [[Mokato]] regarding a meeting at the [[Imperial Arcane Academy]], maybe we should check it out 

@@ -1,0 +1,2 @@
+- received a mysterious note from a secret society saying 'they are watching us'
+- perhaps there are more clues we can find

@@ -1,0 +1,1 @@
+- go on some bounties to gather money for a new ship! ... maybe even an ASTRAL ship!

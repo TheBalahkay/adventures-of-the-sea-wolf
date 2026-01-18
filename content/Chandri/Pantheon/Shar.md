@@ -1,0 +1,1 @@
+Found a portion of Shar's domain deep beneath [[The Mace and Flail]], where a flame elemental now resides in a cage
