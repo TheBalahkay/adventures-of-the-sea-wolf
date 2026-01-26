@@ -1,3 +1,5 @@
+Currently the bastion of [[The Sea Wolf]].
+
 In the mountains surrounding [[Krestis]].
 
 6 levels
