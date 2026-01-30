@@ -1,0 +1,1 @@
+This card is being investigated in [[Gathel Tûm?]] by their artificer. First seen in [[Session 12]].

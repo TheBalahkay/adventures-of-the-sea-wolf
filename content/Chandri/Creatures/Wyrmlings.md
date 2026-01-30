@@ -1,1 +1,1 @@
-3 red wyrmlings set free in the bottom of [[The Mace and Flail]] in [[Session 10]]. They flew down the chasm.
+3 red wyrmlings set free in the bottom of [[The Mace and Flail]] in [[Session 10]]. They flew down the chasm into the domain of [[Shar]].

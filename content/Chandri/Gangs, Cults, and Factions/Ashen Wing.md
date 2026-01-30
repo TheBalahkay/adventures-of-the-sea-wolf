@@ -1,4 +1,7 @@
 Magical creature traffickers
-[[Gaius]] = Leader
-Have a fight club style bar on the moon shaped Island
-Had a run-in with [[Pippin Tangletoes]]
+Run by a council of bosses.
+
+[[Gaius]] was on the council it seemed.
+Used to run  [[The Mace and Flail]]
+
+Had a run-in with [[Pippin Tangletoes]] where he stole the egg that became [[Lady Cluckington]].

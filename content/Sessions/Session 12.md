@@ -28,7 +28,7 @@ Eventually they came into a vast cavern supported by giant mineralized columns, 
 
 [[Echo Dawn Silvertail of Feather-Hoot]] thought it was a good idea to touch the glowing flora, when suddenly a plum of noxious gas/dust/something engulfed everyone. Only [[Huckleberry]] was hurt. He soon was distracted from the pain by a mention of cave birds.
 
-They were then brought into a tent, met a bunch of people, were introduced to the [[Rebellion]] (peoples liberation party). They had some cigars. Were told they can't leave.  [[Huckleberry]] offended them accidentally with totally valid question/ questions [[Castus Wolfe]] told him to ask. Were given a tour. Found out that religion is banned here, and they are super into technology over magic. The [[Imprisoned Dwarves]] were returned directly to (forced?) labor, except for the youngest.
+They were then brought into a tent, met a bunch of people, were introduced to the [[Peoples Liberation Party]] (peoples liberation party). They had some cigars. Were told they can't leave.  [[Huckleberry]] offended them accidentally with totally valid question/ questions [[Castus Wolfe]] told him to ask. Were given a tour. Found out that religion is banned here, and they are super into technology over magic. The [[Imprisoned Dwarves]] were returned directly to (forced?) labor, except for the youngest.
 
 They met a human artificer who was experimenting with a card from the [[Deck of Many Things]]. They met the director of agriculture and then bought some alcohol.
 

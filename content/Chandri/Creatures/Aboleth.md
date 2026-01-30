@@ -1,4 +1,6 @@
 ---
-Bounty: GP 2,000
+Bounty: GP 2,000 (complete)
 ---
-Some kind of a sea monster. Recent sighting/bounty for one just north of the Island that has [[Silverbrook]]. They eat memories, so it would be prudent to write in a journal before pursuing them.
+An amphibious monster that [[The Sea Wolf]] was tasked with slaying. Recent sighting/bounty for one just north of the Island that has [[Silverbrook]]. They eat memories, so it would be prudent to write in a journal before pursuing them.
+
+They reproduce by laying large eggs in the caves they inhabit.
