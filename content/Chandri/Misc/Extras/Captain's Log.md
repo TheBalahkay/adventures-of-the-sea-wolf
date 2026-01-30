@@ -22,7 +22,7 @@ We began today at [[Rocktide Cove]]. As has become our new normal, the crew took
 
 Upon reaching a decision, the order to embark was given swiftly. For a moment there was a question of my authority vs. Belladonna's, but I swiftly answered that with her new title "Assistant to the captain". We are, however, in need of a first mate.
 
-More to come.
+More to come...
 
 
 
