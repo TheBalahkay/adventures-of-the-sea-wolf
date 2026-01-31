@@ -1,23 +1,19 @@
 # Adventures of the Sea Wolf
 
 ## Current Objective:
-Decide where to go next.
+Explore [[Gathel Tûm?]] more.
 
 ### Side Objective
-- [ ] Divvy up the [[Map]], [[Monstrosity]], [[Book]], and bag of holding.
-- [ ] Decide how to leave  [[The Mace and Flail]]
-- [ ] Set magical creatures free?
-- [ ] Take the dwarves home
-- [ ] Discuss the Scroll
-- [ ] Huckleberry's theory
+- [ ] Figure out how to leave
+- [ ] Make a plan to secure the [[Gem]] card
+- [ ] Collect more liquor for [[Captain Morganstern]]
 
 #### Misc To Do
-- [ ] Pick up remaining Chitin armor from [[Splint]]
+- [ ] Decide whether or not we like the [[Peoples Liberation Party]]
 - [ ] Discuss Tax Policy
 
 #### Party Goals
 - [ ] Get to know [[Echo Dawn Silvertail of Feather-Hoot]] better
-- [ ] Send [[Lok'tar]] a card
 
 ## Main Cast 
 
@@ -46,3 +42,6 @@ Decide where to go next.
 [[Session 7]]
 [[Session 8]]
 [[Session 9]]
+[[Session 10]]
+[[Session 11]]
+[[Session 12]]

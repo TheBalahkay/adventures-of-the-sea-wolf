@@ -26,7 +26,7 @@ There is a secret hole in the room of [[Pike Steer]] which leads to the 2nd leve
 	- [[Curved Greatsword (Charger’s Blade)]]
 	- [[Ultra-Great Weapons]]
 	- [[Greatshields and Tower Shields]]
-	- [[Mace and Flail Inventory]]
+	- [[Splint Inventory]]
 ## Armor Shop
 - sells armor of those fallen in battle
 #vendor #bar 

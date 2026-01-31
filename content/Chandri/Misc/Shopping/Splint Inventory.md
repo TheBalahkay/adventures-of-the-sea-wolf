@@ -1,5 +1,5 @@
 
-Available for purchase at [[The Mace and Flail]]
+Available for purchase through [[Splint]] at [[The Mace and Flail]]
 
 Curved Greatsword (Charger’s Blade) – Uncommon Weapon: A greatsword with a curved blade. It requires 14 Strength and Dexterity to wield, has a reach of 5ft, deals 1d10 slashing damage on hit, the Heavy and Two-Handed properties, and one additional feature. After attacking a target creature with this large weapon, which is designed to make effective use of momentum, that target creature cannot make an opportunity attack against the wielder until the wielder’s next turn. 
 
