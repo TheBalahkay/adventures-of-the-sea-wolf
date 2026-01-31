@@ -15,7 +15,7 @@ I, [[Huckleberry]], do solemnly swear that I will support and defend the Sea Wol
 
 
 
-**Captains Log [[Session 11]]**
+# **Captains Log [[Session 11]]**
 The crew are all accounted for.
 
 We began today at [[Rocktide Cove]]. As has become our new normal, the crew took their time deciding where to go next— perhaps this democratized deliberation is not the best way of running a ship. However, it did give me a chance to inspect the line and rigging. Everything was ship-shape, or at least as ship-shape as possible with this vessel. I will be pleased once repairs are made or once we  move on to a better ship. I dream of a frigate, or corvette, fit for the Astral Sea.
@@ -26,7 +26,7 @@ More to come...
 
 
 
-**Captains Log [[Session 12]]**
+# **Captains Log [[Session 12]]**
 The crew are all accounted for, although Newt and Pippin seemed detached today. 
 
 We must make note of a giant shipwreck in the cave of the [[Aboleth]], the large cannon could be useful in the future. The boat seemed larger than normal, I wonder if it was made particularly for large creatures? Giants? Goliaths?

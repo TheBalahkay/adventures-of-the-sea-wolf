@@ -1,2 +1,5 @@
 A coastal town and region with sparkling turquoise waters and a breathtaking coral reef. Coral Bay is teeming with vibrant marine life, making it a paradise for underwater exploration. It is also the primary port by which most trades and traders come to [[Silverbrook]].
+
 Starting point of our adventure. Where we boarded the Flopping Fish.
+
+[[Huckleberry]]'s goliath clan live in Coral Bay.

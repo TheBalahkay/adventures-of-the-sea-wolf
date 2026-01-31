@@ -1,1 +1,1 @@
-The Owlin homeworld. This is where [[Echo Dawn Silvertail of Feather-Hoot]]'s parents— [[Chandri/NPCs/Deceased/Dusk Dawn Silvertail of Strixhaven]], and [[Zephyr Archivus Silvertail of Strixhaven]] are from.
+The Owlin homeworld. This is where [[Echo Dawn Silvertail of Feather-Hoot]]'s parents— [[Dusk Dawn Silvertail of Strixhaven|Dusk Dawn]], and [[Zephyr Archivus Silvertail of Strixhaven|Zephyr]] are from.

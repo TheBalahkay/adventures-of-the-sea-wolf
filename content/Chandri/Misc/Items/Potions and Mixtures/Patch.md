@@ -1,0 +1,1 @@
+Heals _2d20_ , though each use triggers a **Constitution saving throw** to resist the potent drunkenness that follows. Bought at [[The Mace and Flail]] from the [[Old Woman]].

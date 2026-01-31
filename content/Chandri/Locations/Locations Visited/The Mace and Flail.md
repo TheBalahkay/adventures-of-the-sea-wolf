@@ -11,10 +11,12 @@ There is a secret hole in the room of [[Pike Steer]] which leads to the 2nd leve
 ## Vendors <- (Should this be its own entry?)
 
 ### Bar
-- sells one thing: Extremely strong beer
+- Run by the [[Old Woman]]
+- Sells one thing: Extremely strong beer called patch (This is probably made from blood)
+- [[Patch]] heals for something crazy
 ### Weapon Shop
 - #### Overview
-	- run by ???
+	- run by [[Splint]]
 	- can barter
 - ### Wares
 	- [[Hooked Polearm]]
