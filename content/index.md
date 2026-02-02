@@ -4,7 +4,7 @@
 Explore [[Gathel Tûm?]] more.
 
 ### Side Objective
-- [ ] Figure out how to leave
+- [ ] Figure out how to leave [[Gathel Tûm?]]
 - [ ] Make a plan to secure the [[Gem]] card
 - [ ] Collect more liquor for [[Captain Morganstern]]
 
