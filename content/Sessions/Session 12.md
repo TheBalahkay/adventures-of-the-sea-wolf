@@ -22,13 +22,11 @@ They eventually spread out to find an entrance, when [[Castus Wolfe]] had [[Huck
 
 Out came a small but heavily armed detail, ready to escort the group into a tunnel that had been hidden underneath. The group followed [[Castus Wolfe]]'s lead and descended in peace. After feeling a sort of breathing sensation from the tunnel with fresh air entering, and warm industrial air leaving, it seemed like this was a vent of some sort.
 
-Goosu Kara Kara led them deeper?
-
-Eventually they came into a vast cavern supported by giant mineralized columns, there were large swaths of greenish blue bioluminescent flora providing light along most surfaces. This was [[Gathel Tûm?]] 
+Eventually they came into a vast cavern supported by giant mineralized columns, there were large swaths of greenish blue bioluminescent flora providing light along most surfaces. This was [[Gathol~Tûm]] 
 
 [[Echo Dawn Silvertail of Feather-Hoot]] thought it was a good idea to touch the glowing flora, when suddenly a plum of noxious gas/dust/something engulfed everyone. Only [[Huckleberry]] was hurt. He soon was distracted from the pain by a mention of cave birds.
 
-They were then brought into a tent, met a bunch of people, were introduced to the [[Peoples Liberation Party]] (peoples liberation party). They had some cigars. Were told they can't leave.  [[Huckleberry]] offended them accidentally with totally valid question/ questions [[Castus Wolfe]] told him to ask. Were given a tour. Found out that religion is banned here, and they are super into technology over magic. The [[Imprisoned Dwarves]] were returned directly to (forced?) labor, except for the youngest.
+They were then brought into a tent, met a bunch of people, were introduced to the [[Peoples Liberation Party]] (peoples liberation party). They had some cigars. Were told they can't leave.  [[Huckleberry]] offended them accidentally with totally valid question/ questions [[Castus Wolfe]] told him to ask. [[Oryx Valeshade]] claimed to be from Cell 29-B of the [[Chandri/PCs/Plans/Panthia Rebellion|Panthia Rebellion]]. Were given a tour. Found out that religion is banned here, and they are super into technology over magic. The [[Imprisoned Dwarves]] were returned directly to (forced?) labor, except for the youngest.
 
 They met a human artificer who was experimenting with a card from the [[Deck of Many Things]]. They met the director of agriculture and then bought some alcohol.
 

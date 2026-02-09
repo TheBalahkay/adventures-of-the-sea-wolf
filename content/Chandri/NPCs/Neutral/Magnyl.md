@@ -1,3 +1,3 @@
 Member of the [[Peoples Liberation Party]].
 
-Magnyl is a human artificer who is studying a [[Gem]] card from the [[Deck of Many Things]] in [[Gathel Tûm?]]. He has set up a machine that seems very complicated that uses the magic of the card to generate some sort of magical force field that encapsulates the card as well as creating shield barriers, or even a fine film that makes mining equipment more efficient.
+Magnyl is a human artificer who is studying a [[Gem]] card from the [[Deck of Many Things]] in [[Gathol~Tûm]]. He has set up a machine that seems very complicated that uses the magic of the card to generate some sort of magical force field that encapsulates the card as well as creating shield barriers, or even a fine film that makes mining equipment more efficient.

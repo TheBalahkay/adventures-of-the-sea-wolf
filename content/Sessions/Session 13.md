@@ -1,0 +1,17 @@
+---
+date: 2026-02-08
+Moon Phase: ???
+---
+[[Magnyl]] said that he could make some interesting things with special minerals from the mines. [[Oryx Valeshade]] and [[Newt]] stayed behind to try to find more vents/escape points while the rest of the group descended into the mines.
+
+When they arrived some of the mining was explained to the group. Basically the [[Peoples Liberation Party]] have discovered that there are broad swaths of mineral deposits that seem to go along ley lines deep underground. They are long and straight, run parallel to each other, and are fairly normally distributed. [[Huckleberry]] grabbed a modified pickaxe while everyone else chose normal variants.
+
+[[Oryx Valeshade]] and [[Newt]] came back and everyone started mining, although they each did it in very strange ways. From these deposits they found [[Special Math Rocks]], as well as a bunch of other materials. After they were through [[Castus Wolfe]] made sure to obfuscate the true number of each of these in [[Foreman Blevitt]]'s report.
+
+They continued until they broke into an obsidian chamber, and the hill dwarves collapsed into prayer. The crew of [[The Sea Wolf]] ventured into the tunnel for over an hour before coming across some trying chambers. Because of the lack of light [[Newt]] enchanted a boulder to glow, when the group asked [[Huckleberry]] to carry it, he grew attached and named the rock [[Dwayne]]. They faced [[Ropers]], and some tough terrain. At one point they came across a passage blocked by a pile of boulders, [[Huckleberry]] had temporarily refused to act as the groups muscle due to a perceived slight from [[Castus Wolfe]] and so others made several attempts to open it to no avail. Eventually [[Castus Wolfe]] gave [[Huckleberry]] some tea, which he took as an apology and helped to clear the way— but not before [[Echo Dawn Silvertail of Feather-Hoot|Echo]] thought it would be a good idea to clear away some dank smell with a burst of wind from her wings. This would have given them some weird (probably minor) condition but most people expended the [[Special Math Rocks]] to avoid it.
+
+They came to another chamber with some rotting boards that crossed a deep chasm when they wondered how deep it went. [[Huckleberry]] dropped [[Dwayne]] down and he fell a long ways down. However they could still see him, and something shining. Eventually [[Huckleberry]] and [[Echo Dawn Silvertail of Feather-Hoot]] gamed out how to work together to make the trip down and back to see what was down there. After diving in they came across a card from the [[Deck of Many Things]], the [[Cavern]]. In the spirit in which they found the card, [[Huckleberry]] used it without thinking and then found that he had the ability to climb out as easy as he could walk.
+
+Most of the rest of the group had braved the rotting planks and made their way to the next chamber and collected some crystals. 
+
+The next chamber after that was fungal. It was there that they met [[Gus Gus]]. [[Gus Gus]] gave them some shrooms, sold some potions and answered some questions using his access to the [[Myconid or Fungal Hivemind]]. They all asked about [[High Priestess Nyx]], [[High King Tenzu IV]], Cell 29-B, the [[Cult of the Comet]], and more.

@@ -1,10 +1,13 @@
 # Adventures of the Sea Wolf
 
 ## Current Objective:
-Explore [[Gathel Tûm?]] more.
+Explore [[Gathol~Tûm]] more.
 
 ### Side Objective
-- [ ] Figure out how to leave [[Gathel Tûm?]]
+- [ ] Figure out how to leave [[Gathol~Tûm]]
+- [ ] Find Drow Colony
+- [ ] Is there a [[Wyrm (Gusu Katakata)]] nearby?
+- [ ] Aquire/make eye for
 - [ ] Make a plan to secure the [[Gem]] card
 - [ ] Collect more liquor for [[Captain Morganstern]]
 

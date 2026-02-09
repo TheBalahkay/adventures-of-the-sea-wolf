@@ -1,1 +1,1 @@
-[[Peoples Liberation Party]] [[Gathel Tûm?]]
+[[Peoples Liberation Party]] [[Gathol~Tûm]]

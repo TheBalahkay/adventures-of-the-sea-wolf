@@ -10,9 +10,11 @@ Huckleberry seems to have developed a chronic cough, no medicine has helped as o
 
 
 
-| Card        | Charged | Permanent | Description            |
-| ----------- | ------- | --------- | ---------------------- |
-| Path        | No      | Yes       | Increases user's speed |
-| Monstrosity | No      | ?         | ?                      |
+| Card        | Charged | Permanent | Description                              |
+| ----------- | ------- | --------- | ---------------------------------------- |
+| Path        | No      | Yes       | Increases user's speed                   |
+| Monstrosity | No      | ?         | ?                                        |
+| Cavern      | No      | Yes       | Climb=speed, no need to use arms or legs |
+|             |         |           |                                          |
 
 #common #giant

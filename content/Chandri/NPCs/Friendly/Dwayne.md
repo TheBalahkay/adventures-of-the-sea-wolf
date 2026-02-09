@@ -1,0 +1,1 @@
+The rock that was enchanted by [[Newt]] to glow. 

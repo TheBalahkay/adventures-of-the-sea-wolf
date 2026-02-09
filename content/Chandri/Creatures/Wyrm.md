@@ -1,2 +1,0 @@
-Huckleberry has some theories on this, connecting the [[Naga]], [[High Priestess Nyx]], and [[Krestis]].
-There is a rumor of a giant sleeping Wyrm who, when awoken, will bring about the end of [[Chandri]]. 
