@@ -1,5 +1,5 @@
 ---
-date: 2026-02-08
+date: 2026-02-07
 Moon Phase: ???
 ---
 [[Magnyl]] said that he could make some interesting things with special minerals from the mines. [[Oryx Valeshade]] and [[Newt]] stayed behind to try to find more vents/escape points while the rest of the group descended into the mines.
