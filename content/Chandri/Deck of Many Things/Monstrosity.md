@@ -1,1 +1,1 @@
-Found in the aftermath of the exhibition match at [[The Mace and Flail]]. Maybe connected to the [[Naga]]. Currently with [[Huckleberry]].
+Found in the aftermath of the exhibition match at [[The Mace and Flail]]. Maybe connected to the [[Naga]]. Originally with [[Huckleberry]], now with [[Oryx Valeshade]].

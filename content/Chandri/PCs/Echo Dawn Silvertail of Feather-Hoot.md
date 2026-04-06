@@ -51,3 +51,10 @@ o	Is there any way to communicate across the barrier, even if travel is impossib
 -	Restoring Feather-Hoot's Purpose
 -	Why did her parents name her Echo specifically? Does her name itself carry power, as owlin tradition suggests?
 
+Currently holding a card from the [[Deck of Many Things]].
+
+### Cards
+
+| Card          | Charged? | Permanent | Description          |
+| ------------- | -------- | --------- | -------------------- |
+| [[Construct]] | No       | No        | Summons a construct? |

@@ -1,1 +1,1 @@
-Belonged to [[Hardough]].
+Belonged to [[Hardough]]. Currently with [[Pippin Tangletoes]].

@@ -4,9 +4,10 @@
 Pippin is a halfling fighter from the [[Isles of Elysia]]. Some time ago, he stole the egg containing [[Chandri/Creatures/Lady Cluckington]], from the [[Ashen Wing]] gang. He was then trained by his mentor [[Old Man Feathers]] on how to fight, and how to ride Cluckington as a mount. Pippin has a strong interest in birds, and other creatures. He is a currently traveling as a part of the crew of [[The Sea Wolf]], and a holder of a card from the [[Deck of Many Things]].
 ### Cards
 
-| Card      | Charged | Permanent |
-| --------- | ------- | --------- |
-| [[Plant]] | No      | No        |
+| Card      | Charged | Permanent | Description       |
+| --------- | ------- | --------- | ----------------- |
+| [[Plant]] | No      | No        | Speak with plants |
+| [[Map]]   | Yes     | No        |                   |
 # Origin 
 
 **Pippin Tangletoes** was an ordinary halfling farmer from the [[Isles of Elysia]]. With no trace of magic in his blood, Pippin was defined by his sheer, stubborn will. He dreamed of being a warrior, and spent his days fighting cornstalks and vegetables on his families farm. He was determined to prove that a magic-less commoner could carve his name into history, even if he was a halfling.

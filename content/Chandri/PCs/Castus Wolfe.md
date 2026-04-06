@@ -2,10 +2,18 @@ Castus is a High-Elf Bard, and member of the noble [[House Wolfe]]. Born as a no
 
 Castus is married to [[Camille Wolfe]] and has been married for the past 113 years. He has three children Naesala {110} his oldest daughter, Kovlar {87} his middle son, and Arryn{63} his youngest daughter.
 
-He was a recipient of a card from the [[Deck of Many Things]]. Currently holds the [Key] and Card that teaches languages
+He was a recipient of a card from the [[Deck of Many Things]]. Currently holds the [[Key]]  and [[Book]] that teaches languages
 
 After the mutiny at sea, Castus assumed command after the pirate captain lost control of the situation and sneakily convinced the crew to rename the ship "[[The Sea Wolf]]" and to fly a flag very similar to that of his house. Castus, not being a sailor and with no knowledge of naval navigation, named [Huckleberry] the Captain of the [Sea Wolf] Castus' motivation seems to be to advance the goals of [[House Wolfe]] (and thereby [[High King Tenzu IV]]) by bringing order to chaos, crushing the rebellion in [[Panthia]], and becoming a conquest paladin. Castus is principled and orderly, believing laws and structure create the best society combining honor, duty, and community.
 
 While climbing back up the mountain during [[Session 7]], Castus spoke a little about rumors surrounding the execution of a noble that he presided over. Allegedly before he was married his wife had another suitor— a human noble who had not yet been called to serve in the [[High King Tenzu IV]]'s forces. This noble was called to serve the High King's forces before a major battle. This noble then arrived one day late to his report date— Castus pushed to have him, tried, and executed. The noble was found guilty and sentenced to be beheaded, the right of a noble when being executed. Castus however stepped in and ensured that he was hanged with the 8 commoners who also reported late and were sentenced to death. This noble was never a romantic rival however humans were unable to work out a motive for why Castus was so vindictive and settled on a love triangle to make sense of it despite Castus having been married for longer than the noble or his father had been alive, elves and other long lived races better understood his reasons. He does seem very much in love with his wife, whom he writes as often as possible.
+
+### Cards
+
+| Card | Charged? | Permanent? | Description    |
+| ---- | -------- | ---------- | -------------- |
+| Key  |          | no         | Opens any door |
+|      |          |            |                |
+
 
 #dwarvish #elvish #common

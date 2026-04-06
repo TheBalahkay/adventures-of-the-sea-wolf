@@ -1,0 +1,1 @@
+Card from the [[Deck of Many Things]]. Currently held by [[Newt]].
