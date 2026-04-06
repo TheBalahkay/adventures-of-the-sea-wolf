@@ -6,7 +6,7 @@ After killing the [[Aboleth]], most of the crew of [[The Sea Wolf]] found themse
 
 Within the cave the others found a huge [[Aboleth]] egg, six feet in diameter. There was some discussion about turning it into a large omelet, however—due to the soft spot for egged creatures in [[Echo Dawn Silvertail of Feather-Hoot]]'s heart— they decided to keep it safe for now. 
 
-A few members continued deeper following drag markings into another chamber. Within it they were suddenly face to face with a dragon... but it was carved from wood on the bow of a large sunken ship. After looking around they found a large cannon that might be useful to come back for, but not much else useful (apart from a potential egress/ingress point to [[Daedalian Dungeons]]).
+A few members continued deeper following drag markings into another chamber. Within it they were suddenly face to face with a dragon... but it was carved from wood on the bow of a large sunken ship. After looking around they found a large cannon that might be useful to come back for, but not much else useful (apart from a potential egress/ingress point to [[Daedalian Dungeons]]).  
 
 They returned to the ship, egg in tow, and then to [[Rocktide Cove]] to collect their bounty and run some errands. [[Captain Morganstern]] asked them to collect liquor for an upcoming gathering at [[Rocktide Cove]] in about a month. She said that the reward would be commensurate to the quality and quantity of grog they brought back. She also asked for some to be sweet, and not salty like the liquor they were used to.
 
