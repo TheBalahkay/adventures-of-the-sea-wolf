@@ -14,6 +14,7 @@ Defeat [[Wyrm (Gusu Katakata)]] Explore [[Gathol~Tûm]]
 - [ ] Decide whether or not we like the [[Peoples Liberation Party]]
 - [ ] Discuss Tax Policy
 - [ ] Find a place to buy a ship
+- [ ] Keep adding blood (1hp) to the dendritic weapons [[Castus Wolfe]]? [[Oryx Valeshade]]? [[Pippin Tangletoes]]?
 
 #### Party Goals
 - [x] Get to know [[Echo Dawn Silvertail of Feather-Hoot]] better
