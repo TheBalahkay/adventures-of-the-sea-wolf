@@ -1,22 +1,23 @@
 # Adventures of the Sea Wolf
 
 ## Current Objective:
-Explore [[Gathol~Tûm]] more.
+Defeat [[Wyrm (Gusu Katakata)]] Explore [[Gathol~Tûm]]
 
 ### Side Objective
 - [ ] Figure out how to leave [[Gathol~Tûm]]
 - [ ] Find Drow Colony
-- [ ] Is there a [[Wyrm (Gusu Katakata)]] nearby?
-- [ ] Aquire/make eye for
-- [ ] Make a plan to secure the [[Gem]] card
+- [ ] Loot the tower of [[Wyrm (Gusu Katakata)]]
+- [ ] Aquire [[Gem]] card from [[Magnyl]]
 - [ ] Collect more liquor for [[Captain Morganstern]]
 
 #### Misc To Do
 - [ ] Decide whether or not we like the [[Peoples Liberation Party]]
 - [ ] Discuss Tax Policy
+- [ ] Find a place to buy a ship
 
 #### Party Goals
-- [ ] Get to know [[Echo Dawn Silvertail of Feather-Hoot]] better
+- [x] Get to know [[Echo Dawn Silvertail of Feather-Hoot]] better
+- [ ] Secret Santa
 
 ## Main Cast 
 
@@ -48,3 +49,6 @@ Explore [[Gathol~Tûm]] more.
 [[Session 10]]
 [[Session 11]]
 [[Session 12]]
+[[Session 13]]
+[[Session 13.5]]
+[[Session 14]]
