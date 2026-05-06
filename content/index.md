@@ -1,20 +1,17 @@
 # Adventures of the Sea Wolf
 
 ## Current Objective:
-Defeat [[Wyrm (Gusu Katakata)]] Explore [[Gathol~Tûm]]
+Visit [[Silverbrook]]
 
 ### Side Objective
-- [ ] Figure out how to leave [[Gathol~Tûm]]
-- [ ] Find Drow Colony
-- [ ] Loot the tower of [[Wyrm (Gusu Katakata)]]
 - [ ] Aquire [[Gem]] card from [[Magnyl]]
+- [ ] Stop by [[Coral Bay]] and acquire a new ship
 - [ ] Collect more liquor for [[Captain Morganstern]]
 
 #### Misc To Do
-- [ ] Decide whether or not we like the [[Peoples Liberation Party]]
 - [ ] Discuss Tax Policy
-- [ ] Find a place to buy a ship
 - [ ] Keep adding blood (1hp) to the dendritic weapons [[Castus Wolfe]]? [[Oryx Valeshade]]? [[Pippin Tangletoes]]?
+- [ ] Explore Tomb underneath the citadel of [[High King Tenzu IV]]
 
 #### Party Goals
 - [x] Get to know [[Echo Dawn Silvertail of Feather-Hoot]] better
@@ -53,3 +50,5 @@ Defeat [[Wyrm (Gusu Katakata)]] Explore [[Gathol~Tûm]]
 [[Session 13]]
 [[Session 13.5]]
 [[Session 14]]
+[[Session 15]]
+[[Session 16]]

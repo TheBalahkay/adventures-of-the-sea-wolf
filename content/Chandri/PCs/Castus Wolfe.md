@@ -10,10 +10,10 @@ While climbing back up the mountain during [[Session 7]], Castus spoke a little 
 
 ### Cards
 
-| Card | Charged? | Permanent? | Description    |
-| ---- | -------- | ---------- | -------------- |
-| Key  |          | no         | Opens any door |
-|      |          |            |                |
+| Card   | Charged? | Permanent? | Description                  |
+| ------ | -------- | ---------- | ---------------------------- |
+| Sage   | Yes      | No         | Answers three questions      |
+| Dragon | Yes      | No         | Use of Dragons breath attack |
 
 
 #dwarvish #elvish #common
